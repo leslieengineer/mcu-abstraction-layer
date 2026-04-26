@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Product-Requirements"
             }
-          },
-          {
-            "id": "ea609aa795699350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Review/blink.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "blink"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "03429d8b897a0c7d",
@@ -211,11 +195,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ea609aa795699350",
+  "active": "7d99353ad3077784",
   "lastOpenFiles": [
-    "02-System-Architecture/ADR/ADR-0002-layered-gpio-abstraction-with-core-and-extensions.md",
-    "01-Product-Scope/Product-Requirements.md",
+    "Review/cmake.md",
     "Review/blink.md",
+    "01-Product-Scope/Product-Requirements.md",
+    "02-System-Architecture/ADR/ADR-0002-layered-gpio-abstraction-with-core-and-extensions.md",
     "Review",
     "02-System-Architecture/ADR/ADR-0001-why-did-I-create-this-abstract-layer.md",
     "02-System-Architecture/ADR/ADR-0009-use-dedicated-adr-files.md"
